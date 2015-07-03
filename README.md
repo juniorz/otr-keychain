@@ -7,7 +7,7 @@ OTR private keys from the same file.
 
 ## Context
 
-Althought the following libotr private key file[1] (`otr.private_key`) is valid
+Althought the following libotr private key file (`otr.private_key`) is valid[1],
 
     (privkeys
      (account
